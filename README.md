@@ -22,5 +22,5 @@ I’m currently working as Desiign Engineer on [Ubie, Inc](https://ubie.life/).
 
 ## Mediakit
 
-- [Biography](profile.md#biography))
+- [Biography](profile.md#biography)
 - [Images](profile.md#images)
