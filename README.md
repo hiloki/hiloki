@@ -1,6 +1,6 @@
 # About me
 
-I'm Hiroki Tani. Pronouns: he/him
+I'm Hiroki Tani. Pronouns: he/him  
 I’m currently working as Desiign Engineer on [Ubie, Inc](https://ubie.life/).
 
 - 🐦 [twitter.com/hiloki](https://twitter.com/hiloki)
