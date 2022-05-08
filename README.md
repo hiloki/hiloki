@@ -3,9 +3,9 @@
 I'm Hiroki Tani. Pronouns: he/him
 I’m currently working as Desiign Engineer on [Ubie, Inc](https://ubie.life/).
 
-🐦 [twitter.com/hiloki](https://twitter.com/hiloki)
-🖊️ [zenn.dev/hiloki](https://zenn.dev/hiloki)
-📓 [note.com/hiloki](https://note.com/hilokit)
+- 🐦 [twitter.com/hiloki](https://twitter.com/hiloki)
+- 🖊️ [zenn.dev/hiloki](https://zenn.dev/hiloki)
+- 📓 [note.com/hiloki](https://note.com/hilokit)
 
 ## Projects
 
@@ -22,4 +22,5 @@ I’m currently working as Desiign Engineer on [Ubie, Inc](https://ubie.life/).
 
 ## Mediakit
 
-- 
+- [Biography](profile.md#biography))
+- [Images](profile.md#images)
