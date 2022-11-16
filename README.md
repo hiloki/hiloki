@@ -16,7 +16,7 @@ I’m currently working as Desiign Engineer on [Ubie, Inc](https://ubie.life/).
 - [柴犬でもわかるFLOCSS](https://mamehiko.booth.pm/items/1033385)(PDF, 2018)
 - [Web制作者のためのCSS設計の教科書](https://amzn.to/33jPrO8)(2014)
 
-## My Doggos
+## My Doggoes
 
 ![Mamehiko and Kurosuke](images/mamekuro.gif)
 
