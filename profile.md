@@ -14,6 +14,5 @@ Figma Japan株式会社デザイナーアドボケート。中小企業向けの
 
 # Images
 
-| Primary | Secondary |
-| -------- | ------- |
-| <a href="images/hiloki.jpg"><img src="images/hiloki.jpg" width="160" height="160" alt="Primary image: Me and my doggo Kurosuke are looking at each other." /></a> | <a href="images/hiloki_front.jpg"><img src="images/hiloki2.jpg" width="160" height="160" alt="Secondary image" /></a> | 
+<a href="https://github.com/hiloki/hiloki/assets/445333/03b71cf7-7243-48ee-9898-04b7e402d4a9"><img src="https://github.com/hiloki/hiloki/assets/445333/03b71cf7-7243-48ee-9898-04b7e402d4a9" width="160" height="160" alt="Primary image: Me and my doggo Kurosuke are looking at camera." /></a>
+
