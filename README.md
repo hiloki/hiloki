@@ -1,7 +1,7 @@
 # About me
 
 I'm Hiroki Tani. Pronouns: he/him  
-I’m currently working as Desiign Engineer on [Ubie, Inc](https://ubie.life/).
+I’m currently working as Designer Advocate on Figma.
 
 - 🐦 [twitter.com/hiloki](https://twitter.com/hiloki)
 - 🖊️ [zenn.dev/hiloki](https://zenn.dev/hiloki)
