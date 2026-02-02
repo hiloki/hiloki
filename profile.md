@@ -16,5 +16,5 @@ Figma Japan株式会社デザイナーアドボケート。中小企業向けの
 
 <a href="https://github.com/hiloki/hiloki/blob/main/images/hiloki_x3.jpg"><img src="https://github.com/hiloki/hiloki/blob/main/images/hiloki_x3.jpg?raw=true" width="160" height="160" alt="" /></a>
 
-<a href="https://github.com/hiloki/hiloki/blob/main/images/hiloki_figma.png"><img src="https://github.com/hiloki/hiloki/blob/main/images/hiloki_figma.png?raw=true" width="160" height="160" alt="" /></a>
+<a href="https://github.com/hiloki/hiloki/blob/main/images/hiloki_figma3.png"><img src="https://github.com/hiloki/hiloki/blob/main/images/hiloki_figma3.png?raw=true" width="160" height="160" alt="" /></a>
 
